@@ -1,0 +1,21 @@
+Exercices de base PHP
+
+1. Créez un script PHP qui affiche "Hello World!" sur une page Web.
+
+2. Écrivez un script qui prend en entrée le nom et l'âge d'un utilisateur et affiche un message sur la page Web disant « Bonjour, [nom] ! Vous avez [âge] ans.
+
+3. Créez un script qui prend un nombre en entrée et affiche la table de multiplication de ce nombre jusqu'à 10.
+
+4. Écrivez un script qui prend une liste de nombres en entrée et trouve le plus grand et le plus petit nombre de la liste.
+
+5. Créez un script qui génère un mot de passe aléatoire pour l'utilisateur avec une longueur et un jeu de caractères spécifiés.
+
+6. Écrivez un script qui prend une entrée de chaîne de l'utilisateur et détermine s'il s'agit d'un palindrome (un mot ou une phrase qui se lit de la même manière vers l'arrière que vers l'avant).
+
+7. Créez un script qui calcule la factorielle d'un nombre entré par l'utilisateur.
+
+8. Écrivez un script qui prend une phrase en entrée et la convertit en cochon latin (un jeu de langage où les mots en anglais sont modifiés en déplaçant la première consonne ou groupe de consonnes à la fin du mot et en ajoutant « ay »).
+
+9. Créez un script qui utilise une boucle pour imprimer les nombres de 1 à 10.
+
+10. Écrivez un script qui prend une liste de noms en entrée et les trie par ordre alphabétique.
